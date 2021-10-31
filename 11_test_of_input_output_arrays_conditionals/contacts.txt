@@ -1,4 +1,2 @@
 Margus Pärt, +372 123 5678, 45, margus.part@tptlive.ee
-Artjom P, +372 123 5678, 150, artjom.poldsaar@tptlive.ee
-Barborianus Grib-Grob, +372 12938129381293812038, 1001, netu
-Barborianus Grib-Grob II, +3823 1920381029381029381203981239812, 10, email@gmail.com @ gma l i l d com
+Artjom P, +372 123 5678, 100, artjom.poldsaar@tptlive.ee
